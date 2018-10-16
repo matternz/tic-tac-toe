@@ -1,8 +1,8 @@
-import { SQUAREA_CLICKED } from '..'
+import { SQUARE_CLICKED } from '..'
 
 function squareClicked (square) {
     return {
-        type: SQUAREA_CLICKED,
+        type: SQUARE_CLICKED,
         payload: {
             square
         }
