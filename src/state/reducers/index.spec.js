@@ -4,7 +4,7 @@ import { squareClicked } from '..'
 describe('state:reducers', () => {
     describe('rootReducer', () => {
         it('defaults to the initialState', () => {
-            expect(rootReducer(undefined, {})).toBe(initalState)
+            expect(rootReducer(undefined, {})).toBe(initialState)
         })
 
         it('handles an unknown action type by returning the state unchanged', () => {
