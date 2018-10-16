@@ -1,0 +1,1 @@
+export const SQUARE_CLICKED = 'SQUARED_CLICKED'
