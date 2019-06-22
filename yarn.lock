@@ -5093,10 +5093,6 @@ lodash.isequal@^3.0:
     lodash._baseisequal "^3.0.0"
     lodash._bindcallback "^3.0.0"
 
-lodash.isplainobject@^4.0.6:
-  version "4.0.6"
-  resolved "http://drlnpm02.nz.thenational.com:8081/repository/npm/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
-
 lodash.istypedarray@^3.0.0:
   version "3.0.6"
   resolved "http://drlnpm02.nz.thenational.com:8081/repository/npm/lodash.istypedarray/-/lodash.istypedarray-3.0.6.tgz#c9a477498607501d8e8494d283b87c39281cef62"
@@ -5292,8 +5288,8 @@ merge-descriptors@1.0.1:
   resolved "http://drlnpm02.nz.thenational.com:8081/repository/npm/merge-descriptors/-/merge-descriptors-1.0.1.tgz#b00aaa556dd8b44568150ec9d1b953f3f90cbb61"
 
 merge@^1.1.3:
-  version "1.2.0"
-  resolved "http://drlnpm02.nz.thenational.com:8081/repository/npm/merge/-/merge-1.2.0.tgz#7531e39d4949c281a66b8c5a6e0265e8b05894da"
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.1.tgz#38bebf80c3220a8a487b6fcfb3941bb11720c145"
 
 messageformat-parser@^1.1.0:
   version "1.1.0"
@@ -6844,16 +6840,6 @@ reduce-function-call@^1.0.1:
   resolved "http://drlnpm02.nz.thenational.com:8081/repository/npm/reduce-function-call/-/reduce-function-call-1.0.2.tgz#5a200bf92e0e37751752fe45b0ab330fd4b6be99"
   dependencies:
     balanced-match "^0.4.2"
-
-redux-devtools-extension@^2.13.2:
-  version "2.13.2"
-  resolved "http://drlnpm02.nz.thenational.com:8081/repository/npm/redux-devtools-extension/-/redux-devtools-extension-2.13.2.tgz#e0f9a8e8dfca7c17be92c7124958a3b94eb2911d"
-
-redux-mock-store@^1.5.1:
-  version "1.5.1"
-  resolved "http://drlnpm02.nz.thenational.com:8081/repository/npm/redux-mock-store/-/redux-mock-store-1.5.1.tgz#fca4335392e66605420b5559fe02fc5b8bb6d63c"
-  dependencies:
-    lodash.isplainobject "^4.0.6"
 
 redux-observable@^0.18.0:
   version "0.18.0"
